@@ -1,0 +1,494 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;800&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap'); 
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&display=swap');
+
+body{  
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    font-family: 'Motserrat',sans-serif, ;
+    font-family: 'Oswald', sans-serif;
+}
+
+.container h4{
+    font-size: 27px;
+    font-weight: 200;
+    opacity: 0.6;
+    margin: 14px 0 0 0;
+}
+
+a{
+    text-decoration: none ;
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.header-links {
+ text-align: right;
+}
+
+.header-links a{
+    margin-left: 16px;
+}
+
+.welcome-inner{
+    padding: 105px 0;
+}
+
+.container-welcome{
+    padding: 120px 10px;
+    font-family: 'Motserrat',sans-serif, ;
+    font-family: 'Oswald', sans-serif;
+}
+
+.welcome-inner{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.welcome-text{
+    padding-left: 120px;
+} 
+
+.welcome-text h1{
+   font-weight: 400;
+   font-size: 55px;
+   line-height: 66px;
+}
+
+.welcome-text p {
+    opacity: 0.5;
+    font-weight: 300;
+
+}
+
+button{
+    padding: 20px 36px;
+    background-color: orange;
+    border: none;
+    color: white;
+    border-radius: 27px;
+    box-shadow: 0 0 20px 0 orange;
+    opacity: 0.7;
+}
+  
+.text1{
+    text-align: center;
+    padding: 0 0 70px 0;
+ font-size: 35px;
+ font-weight: 400;
+}
+
+.Smart-top{
+    padding: 0 170px 0 170px;
+    margin: 0 100px 0 100px;
+}
+
+.Smart-top{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
+
+.coco2{
+    width: 25px;
+    margin: 25px 0 0 0;
+
+}
+
+.smart-info h5{
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 17px;
+} 
+
+.smart-info2 h5{
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 17px;
+} 
+
+.smart-info p{
+    margin: 0 auto;
+    font-weight: 300;
+    font-size: 16px;
+    margin: 0 0 30px;
+} 
+
+.smart-info2 p{
+    /* margin: 0 auto; */
+    font-weight: 300;
+    font-size: 16px;
+    margin: 0 0 30px;
+}
+
+.coco1{
+width: 25px;
+}
+
+.Apple{
+    background-color: rgba(252, 164, 64, 0.959);
+}
+
+.Apple-top{
+    padding: 12px 0;
+}
+
+.Aplle-info{
+    display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+
+.Aplle-info h2{
+    color: white;
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.Aplle-info p{
+    color: white;
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.Watch-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Watch h1{
+    text-align: center;
+    margin: 0 0 87px;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.Watch-top{
+    margin: 0 0 0 100px;
+}
+
+.Watch-top h2{
+    font-weight: 300;
+    font-size: 27px;
+}
+
+.Watch-top p{
+    font-weight: 200;
+    font-size: 16px ;
+}
+
+.Watch-pro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Watch-top2{
+    margin: 0 96px 0 0;
+
+}
+
+.Watch-top2 p{
+        font-weight: 200;
+        font-size: 16px ;
+}
+
+.Watch-top2 h2{
+    font-weight: 300;
+    font-size: 27px;
+}
+
+.Blok{
+    font-family: 'Oswald', sans-serif;
+}
+
+.h1-top{
+    font-weight: 300;
+    font-size: 35px;
+    text-align: center;
+}
+
+.Blok img{
+max-width: 80%;
+margin: 0 0 0 30px;
+}
+
+.containerIMG{
+    padding: 120px 10px;
+}
+
+
+.IMG-time{
+    display: flex;
+    justify-content: center;
+}
+
+.feedback-inner h2{
+text-align: center;
+font-size: 28px;
+font-weight: 400;
+}
+
+.IMG-FF{
+max-width: 40px;
+}
+
+.feedback-list{
+    display: flex;
+   padding: 70px 0 150px;
+   justify-content: space-evenly ;
+   margin: 0 170px;
+}
+
+.feedback-item1 p{
+    font-size: 14px;
+    font-weight: 100;
+}
+
+#icon-gg{
+    border-radius: 100px; 
+    box-shadow: 0 0 0 3px rgb(255, 226, 148), 0 0 13px #333; 
+    max-width: 50px;
+margin: 20px 0 0 80px;
+}
+
+
+.img-icon{
+    display: flex;
+    justify-content: space-around;
+}
+
+#icon-gg1{
+    border-radius: 100px; 
+    box-shadow: 0 0 0 3px rgb(255, 226, 148), 0 0 13px #333; 
+    max-width: 50px;
+    margin: 20px 0 0 80px;
+}
+
+.feedback-item1 h3{
+    margin: 0;
+    text-align: center;
+    margin: 0 38px 0 0;
+    font-weight: 400;
+}
+
+.text-name{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Buttun-g{
+    display: flex;
+    justify-content: center;
+}
+
+.container-end{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Motserrat',sans-serif, ;
+}
+
+.End{
+ background-color: rgb(243, 243, 243);
+}  
+
+.End-top{
+    padding: 120px 10px;
+}
+
+.End-list{
+    text-align: center;
+}
+
+.End-list h5{
+   font-weight: 200;
+   font-size: 20px;
+   opacity: 0.6;
+}
+
+.End-list a{
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 16px;
+}
+
+.End-top h6{
+    font-weight: 200;
+    font-size: 12px;
+    opacity: 0.4;
+}
+    
+.image {
+    overflow:hidden;
+    }
+
+    .image img {
+        -moz-transition: all 1s ease-out;
+        -o-transition: all 1s ease-out;
+        -webkit-transition: all 1s ease-out;
+        }
+        
+       .image img:hover{
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
+        }
+
+@media (max-width:720px) {
+    .container{
+        width: auto;
+        margin: 0 10px;
+    }
+    header{
+        display: none;
+    }
+     .welcome-inner{
+         padding: 120px 0;
+     }
+
+.welcome-text{
+    padding: 0;
+}
+
+.welcome-text p{
+    font-size: 12px;
+    margin: 0 70px 20px 70px;
+}
+
+.container-welcome{
+    width: auto;
+    margin: 0;
+    text-align: center;
+padding: 0;
+}
+.welcome-inner img{
+ display: none;
+}
+.welcome-text h1{
+    font-size: 37px;
+    line-height: 40px;
+}
+
+.smart-info {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.301);
+    height: 505px;
+    padding: 20px;
+    margin: 25px 30px 20px 30px;
+    width: 200px;
+    border-radius: 20px;
+    background-image: none;
+    background-color: rgb(246, 246, 246);
+    text-align: center;
+}
+
+.smart-info2{
+    display: none;
+}
+
+.Smart-top img{
+    max-width: 110px;
+}
+
+.Smart-top{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: center; 
+    padding: 0;
+    margin: 0;
+}
+
+.Aplle-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: none;
+}
+
+.Aplle-info p{
+    font-size: 13px;
+    padding: 0 40px 20px 40px;
+}
+
+.Watch h1{
+    margin: 87px 0 87px;
+}
+
+.Watch-pro{
+    margin:  0 0 30px 0;
+    justify-content: none;
+    flex-direction: column;
+}
+
+.Watch-list{
+    flex-direction: column;
+}
+
+.IMG-time{
+    max-width: 300px;
+    flex-direction: column;
+}
+
+.img-top{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.301);
+    height: 700px;
+    padding: 20px;
+    margin: 25px 30px 65px 20px;
+   /*  width: 200px; */
+    border-radius: 20px;
+    background-image: none;
+    background-color: white;
+    text-align: center;
+}
+
+.h1-top{
+    margin: 101px 0 0 0;
+}
+
+.Blok img{
+max-width: 40%;
+}
+#OFF{
+    display: none;
+}
+
+.feedback-item1{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.301);
+    height: 505px;
+    padding: 20px;
+    margin: 25px 30px 20px 30px;
+    width: 200px;
+    border-radius: 20px;
+    background-image: none;
+    background-color: rgb(246, 246, 246);
+    text-align: center;
+}
+
+.feedback-item1 h3{
+    margin: 0 2px 0 0;
+}
+
+.feedback-list{
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#icon-gg{
+    margin: 20px 0 0 -3px;
+}
+
+#icon-gg1{
+    margin: 20px 0 0 1px;
+}
+    }
